@@ -11,3 +11,7 @@
     در پنجره جدید در قسمت OutboundTag گزینه Direct را انتخاب کنید و سپس در قسمت Domains عبارت ext:iran.dat:ir,ext:iran.dat:other,regexp:^.+\.ir$ را کپی کنید.
     بر روی گزینه Confirm کلیک کنید تا به صفحه اصلی برنامه برگردید.
     مطمن شوید که از پایین برنامه فسمت Routing نام rule انتخابی شما وارد شده است. درغیر اینصورت فلش رو به پایین سمت راست آنرا بزنید و نام rule انتخابی خود را انتخاب کنید.
+
+
+
+ext:iran.dat:ir,ext:iran.dat:other,regexp:^.+\.ir$
